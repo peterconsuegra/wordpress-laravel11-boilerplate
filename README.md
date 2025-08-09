@@ -3,9 +3,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-%231572B6.svg)](LICENSE)  
 [![Made with Pete](https://img.shields.io/badge/built%20with-WordPress%20Pete-0a0a0a.svg)](https://wordpresspete.com)
 
-## Why WordPress Pete?
-
 # WordPress Pete – Build and Launch MVPs Faster
+
+## Why WordPress Pete?
 
 With **WordPress Pete**, you can deploy your WordPress site to a powerful, containerized environment for both development and production—or accelerate your workflow with a fast-paced setup designed to build sophisticated MVPs in just a few clicks.  
 
